@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/77/07/cb/7707cb3eb40eda147e802ef3f8ad7d9f.gif" width="100%"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/qqgghhuuia">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=linkedin&logoColor=white%22%20alt=%22LinkedIn%20Badge" alt="Telegram Badge"/>
   </a>
