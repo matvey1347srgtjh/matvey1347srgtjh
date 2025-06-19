@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ку 👋
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/77/07/cb/7707cb3eb40eda147e802ef3f8ad7d9f.gif" width="100%"/>
 </div>
